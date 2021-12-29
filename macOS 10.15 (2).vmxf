@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 83 2e db 2c 25 5c 0d-f7 15 8a 4d 3e 27 de e3</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">macOS 10.15 (2).vmx</vmxPathName></VM></Foundry>
